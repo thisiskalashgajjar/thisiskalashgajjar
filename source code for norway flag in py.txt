@@ -45,5 +45,4 @@ forward(500)
 right(90)
 forward(50)
 end_fill()
-
-t.done()
+done()
