@@ -1,0 +1,12 @@
+#HOW TO GET COMPLETE CALENDAR OF RESPECTIVE YEAR INCLUDING ALL MONTHS IN PYTHON
+
+import calendar as ca
+
+yy = 2021         #whatever year you want to enter
+
+mm = 7            #it's just formality at last you will get a whole calendar in the output
+
+print(ca.calendar(yy, mm))
+
+#completion of code hence you will get your respective output
+#A basic code Written by KALASH GAJJAR
